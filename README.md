@@ -1,4 +1,4 @@
-# UniversityLabsForAADS
+# UniversityLabsForTP
 my lab works on the course "Programming Technologies" in C++
 
 **Геометрические фигуры**
